@@ -196,6 +196,9 @@ section.ba-benefits {
 .ba-introducing .ba-section-title{
 	padding-top: 200px;
 }
+.ba-introducing p{
+	margin-bottom:20px;
+}
 
 
 .ba-section-title:after {
