@@ -185,6 +185,13 @@ section.ba-benefits {
 	padding-bottom: 20px;
 
 }
+.ba-introducing . ba-section-title:after{
+	content: "";
+	display: block;
+	width: 88px;
+	border-bottom: 1px solid #f57365;
+	padding-top: 12px;
+}
 
 .ba-section-title:after {
 	content: "";
@@ -192,7 +199,6 @@ section.ba-benefits {
 	width: 88px;
 	margin: 0 auto;
 	border-bottom: 1px solid #f57365;
-	text-align: left;
 	padding-top: 12px;
 }
 
