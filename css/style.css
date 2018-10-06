@@ -190,7 +190,9 @@ section.ba-benefits {
 	width: 88px;
 	border-bottom: 1px solid #f57365;
 	padding-top: 12px;
+	margin:0;
 }
+
 .ba-introducing .ba-section-title{
 	padding-top: 200px;
 }
