@@ -191,6 +191,10 @@ section.ba-benefits {
 	border-bottom: 1px solid #f57365;
 	padding-top: 12px;
 }
+.ba-introducing . ba-section-title{
+	padding-top: 20px;
+}
+
 
 .ba-section-title:after {
 	content: "";
